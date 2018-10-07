@@ -46,14 +46,15 @@
 	
 	background-color: white;
 	height: 450px;
-	width: auto;
 	border: black 1.5px solid;
 	
 }
 .content{
-	width: 250px;
+	width:20% ;
 	float: left;
-	margin: 20px 10px 10px 180px;
+	margin:10px 0px 10px 130px;
+	padding:10px;
+	/*margin: 20px 10px 10px 180px;*/
 
 	font-size: 10px;
     font-family: 'Yellowtail', cursive;
